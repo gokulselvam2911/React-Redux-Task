@@ -4,9 +4,9 @@ This project is a simple shopping cart web application built using **React**, **
 
 ## Preview
 
-[![React-Redux Shopping Cart Application Preview]()]()
+[![React-Redux Shopping Cart Application Preview](https://github.com/gokulselvam2911/React-Redux-Task/blob/main/src/assets/react-redux-task.png?raw=true)](https://react-redux-task-gkl.netlify.app/)
 
-**[View Live Preview]()**
+**[View Live Preview](https://react-redux-task-gkl.netlify.app/)**
 
 ## Features
 
@@ -63,4 +63,4 @@ The project fetches product data from a mock API. The default API URL is: [https
 
 The application is deployed on Netlify. You can view the live version of the application by visiting the following link:
 
-[Live Application]()
+[Live Application](https://react-redux-task-gkl.netlify.app/)
